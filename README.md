@@ -1,4 +1,4 @@
-# project-manager-shl
+# Product Mangement SHL
 
 Go to project manager folder for frontend code in React JS.
 
